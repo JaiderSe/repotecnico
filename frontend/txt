@@ -1,0 +1,13 @@
+debe tener un diseño agradable 
+utilizaremos bootstrap
+visualizar los registros de ambas partes
+sesión académica, validación de ambas partes y registro de la información
+
+
+necesitamos login y register en local storage, necesitamos una validación de ambas partes por ende necesitamos un servidor que administre esas solicitudes, necesitamos dos roles uno de maestro y otro de estudiante:
+
+
+datos:
+
+Campos: nombre del docente, nombre del estudiante, fecha, hora de inicio, hora de finalización y descripción breve.
+
