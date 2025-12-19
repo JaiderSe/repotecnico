@@ -1,4 +1,4 @@
 # repotecnico
-[img] banner.png
+[img] [banner.png]
 
 registro y manejo de asessorias academicas
